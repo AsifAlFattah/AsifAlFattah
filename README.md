@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsifAlFattah
-- 👀 I’m interested in new technologies!
-- 🌱 I’m currently learning Web Development!
+- 👀 I’m a Programmer!
+- 🌱 I’m a Web Developer!
 
 <!---
 AsifAlFattah/AsifAlFattah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
